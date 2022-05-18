@@ -1,0 +1,3 @@
+yarn create react-app ./ --template typescript
+yarn add react-router-dom
+yarn add -D @types/react-router-dom
